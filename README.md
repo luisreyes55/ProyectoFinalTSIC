@@ -1,2 +1,2 @@
 # ProyectoFinalTSIC
- Proyecto final de realidad virtual
+ Proyecto final realidad virtual
