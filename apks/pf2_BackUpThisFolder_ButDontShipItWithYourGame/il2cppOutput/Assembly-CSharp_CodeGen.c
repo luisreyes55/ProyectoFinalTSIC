@@ -66,7 +66,15 @@ extern void U3CStartXRU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_O
 extern void U3CStartXRU3Ed__10_System_Collections_IEnumerator_Reset_mD99AEFDB38CFAC11731CDB371647891816288600 (void);
 // 0x0000001B System.Object VrModeController/<StartXR>d__10::System.Collections.IEnumerator.get_Current()
 extern void U3CStartXRU3Ed__10_System_Collections_IEnumerator_get_Current_mD84D9ACDB0A04C619509BA51590975DB84C30B0F (void);
-static Il2CppMethodPointer s_methodPointers[27] = 
+// 0x0000001C System.Void MainMenu::Start()
+extern void MainMenu_Start_m1729BDE6D096D9F4C92DBE72B392BA89E9A9ECAD (void);
+// 0x0000001D System.Void MainMenu::Update()
+extern void MainMenu_Update_m6D9E8EB1A42CC68CFAA865B9CF18FAEB81595C5C (void);
+// 0x0000001E System.Void MainMenu::EscenaJuego()
+extern void MainMenu_EscenaJuego_m3930224886824BC22D345534F8E5080CEA85AC4F (void);
+// 0x0000001F System.Void MainMenu::.ctor()
+extern void MainMenu__ctor_m8209CEC1D907C87A96D777961F4D0536E6E948DD (void);
+static Il2CppMethodPointer s_methodPointers[31] = 
 {
 	CameraPointer_Update_mF19D284A593E4627CD4F22A58C11FB87B6627FF4,
 	CameraPointer__ctor_m5C4B443EB7C8A518306BF27BD947D938FDF5162D,
@@ -95,42 +103,50 @@ static Il2CppMethodPointer s_methodPointers[27] =
 	U3CStartXRU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mD0B4CE8CBE980FD132B19F40FF2172502B1D0566,
 	U3CStartXRU3Ed__10_System_Collections_IEnumerator_Reset_mD99AEFDB38CFAC11731CDB371647891816288600,
 	U3CStartXRU3Ed__10_System_Collections_IEnumerator_get_Current_mD84D9ACDB0A04C619509BA51590975DB84C30B0F,
+	MainMenu_Start_m1729BDE6D096D9F4C92DBE72B392BA89E9A9ECAD,
+	MainMenu_Update_m6D9E8EB1A42CC68CFAA865B9CF18FAEB81595C5C,
+	MainMenu_EscenaJuego_m3930224886824BC22D345534F8E5080CEA85AC4F,
+	MainMenu__ctor_m8209CEC1D907C87A96D777961F4D0536E6E948DD,
 };
-static const int32_t s_InvokerIndices[27] = 
+static const int32_t s_InvokerIndices[31] = 
 {
-	1061,
-	1061,
-	1061,
-	1061,
-	1061,
-	1061,
-	1061,
-	1061,
-	1061,
-	1061,
-	891,
-	1061,
-	1011,
-	1011,
-	1061,
-	1061,
-	1061,
-	1061,
-	1035,
-	1061,
-	1061,
-	908,
-	1061,
-	1011,
-	1035,
-	1061,
-	1035,
+	3488,
+	3488,
+	3488,
+	3488,
+	3488,
+	3488,
+	3488,
+	3488,
+	3488,
+	3488,
+	2782,
+	3488,
+	3334,
+	3334,
+	3488,
+	3488,
+	3488,
+	3488,
+	3395,
+	3488,
+	3488,
+	2828,
+	3488,
+	3334,
+	3395,
+	3488,
+	3395,
+	3488,
+	3488,
+	3488,
+	3488,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	27,
+	31,
 	s_methodPointers,
 	0,
 	NULL,
