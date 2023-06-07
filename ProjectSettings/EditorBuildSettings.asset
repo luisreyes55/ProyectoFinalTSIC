@@ -5,17 +5,44 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: e773bf0911d53034389c4e9fef7059be
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Juego.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
+  - enabled: 1
     path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity
     guid: 145a2a45d7bc746b19cb68410368bf96
   - enabled: 1
-    path: Assets/Piano Game/Scenes/SampleScene.unity
+    path: Assets/Piano Game/Scenes/Melody.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/HouseMusic.unity
+    guid: 18e9558bbc5d46b4cbfad387951f9a9d
+  - enabled: 1
+    path: Assets/Scenes/A.unity
+    guid: e1bc52ceaf20ac44fa5b481832099c34
+  - enabled: 1
+    path: Assets/Scenes/B.unity
+    guid: 23ed1964ae44cc6488dda493f990c8ca
+  - enabled: 1
+    path: Assets/Scenes/C#.unity
+    guid: 48d78f9115646814593fa01e16d50ffc
+  - enabled: 1
+    path: Assets/Scenes/C.unity
+    guid: fa1f9ad9224e8864c8813ba48f019c39
+  - enabled: 1
+    path: Assets/Scenes/D.unity
+    guid: 308be189a9a3d394db77b25a31b270c6
+  - enabled: 1
+    path: Assets/Scenes/E.unity
+    guid: 09a42b65c48d2834fb4968786287521d
+  - enabled: 1
+    path: Assets/Scenes/F.unity
+    guid: 5cc211a2087471b44815c73bcb9d79d7
+  - enabled: 1
+    path: Assets/Scenes/G.unity
+    guid: dded074c4a90a4c479e322c1ecb60bd2
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 99dbb57348aee6f43a5ac81bc189e3a8, type: 2}

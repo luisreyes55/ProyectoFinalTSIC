@@ -1,0 +1,696 @@
+
+newmtl guitare_electrique_ww___phong135
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_d guitare_corde_tex.png
+map_Kd guitare_corde_tex.png
+
+newmtl violon_ww___phong7
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_d violon_tex.png
+map_Kd violon_tex.png
+
+newmtl violon_ww___phong8
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_d violon_corde_tex.png
+map_Kd violon_corde_tex.png
+
+newmtl violon_ww___phong9
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_d violon_crin_tex.png
+map_Kd violon_crin_tex.png
+
+newmtl beige_006_Wall_Entity_Material
+Kd 0.9098039269447327 0.9098039269447327 0.8784313797950745
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl enduit_004_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl 20201102-111932-est_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20201102-111932-est.jpg
+
+newmtl 20201102-112046-est_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20201102-112046-est.jpg
+
+newmtl blanc_001_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl 20201102-112119-est_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20201102-112119-est.jpg
+
+newmtl enduit_004_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl moquette_014_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd moquette_014.jpg
+
+newmtl tex_bois_blanc
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd tex_bois_blanc.jpg
+
+newmtl tex_tapis13
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd tex_tapis13.jpg
+
+newmtl moquette_013
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd moquette_013.jpg
+
+newmtl moquette_019
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd moquette_019.jpg
+
+newmtl 20201102-11484-est
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20201102-11484-est.jpg
+
+newmtl luminaire_off_001___phong21sg2
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0.07999999821186066 0.07999999821186066 0.07999999821186066
+d 1
+Ns 1
+illum 2
+map_Kd metal_004.jpg
+
+newmtl bureau_008___boisnoir
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois_noir.jpg
+
+newmtl bureau_008___paper_feuilles
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_page.jpg
+
+newmtl bureau_008___paper_photo
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_photo.jpg
+
+newmtl bureau_008___phong1sg
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+d 1
+illum 1
+map_Kd tex_bois.jpg
+
+newmtl bureau_008___plastic_clavier
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_clavier.jpg
+
+newmtl bureau_008___plastic_ecran
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_ecrantv.jpg
+
+newmtl pack_005_bureau_001_fauteuil_002___cuir
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_cuir3.jpg
+
+newmtl pack_005_bureau_001_fauteuil_002___dossier
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd bois_002.jpg
+
+newmtl armoire_bureau_002___classeur
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd classeur.jpg
+
+newmtl pack_004_salon_001_plante___nopaint_feuilles
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_plante.jpg
+
+newmtl pack_004_salon_001_plante___terreau
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_terreau.jpg
+
+newmtl guitare_electrique_ww___phong128
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_Kd bois_017.jpg
+
+newmtl guitare_electrique_ww___phong129
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_Kd bois_029.jpg
+
+newmtl guitare_electrique_ww___phong131
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_Kd guitare_tex.jpg
+
+newmtl guitare_001___guitare
+Kd 0.9882000088691711 0.9882000088691711 0.9882000088691711
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_guitare.jpg
+
+newmtl 20201101-11123-edt
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20201101-11123-edt.jpg
+
+newmtl djembe_ww___phong300
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_Kd djembe1_tex.jpg
+
+newmtl djembe_ww___phong301
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_Kd djembe2_tex.jpg
+
+newmtl djembe_ww___phong303
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_Kd tissus_018_gris.jpg
+
+newmtl maracasse_ww___phong308
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_Kd bois_035.jpg
+
+newmtl violon_ww___phong5
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0.1748251765966415 0.1748251765966415 0.1748251765966415
+d 1
+Ns 36.32167816162109
+illum 2
+map_Kd bois_004.jpg
+
+newmtl violon_ww___phong6
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_Kd bois_040.jpg
+
+newmtl 20201102-112046-est
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20201102-112046-est.jpg
+
+newmtl ampli_ww___phong12
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0.3356643319129944 0.3356643319129944 0.3356643319129944
+d 1
+Ns 48.65734100341797
+illum 2
+map_Kd ampli_tex.jpg
+
+newmtl ampli_ww___phong14
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_Kd cuir_008.jpg
+
+newmtl 20201102-12935-est
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20201102-12935-est.jpg
+
+newmtl 20201102-12855-est
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20201102-12855-est.jpg
+
+newmtl 20201102-12914-est
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20201102-12914-est.jpg
+
+newmtl bureau_etagere_murale___accessoires_bureau_plastic_clavier
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_clavier2.jpg
+
+newmtl aquarium_001___ciclide_jaune_slot13_ciclide_jaune_cc_001_m_null
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd ciclide_jaune.jpg
+
+newmtl aquarium_001___ciclide_rayures_slot11_ciclide_rayures_cc_001_m_null
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd ciclide_rayures.jpg
+
+newmtl aquarium_001___feuille
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd feuilles_001.jpg
+
+newmtl aquarium_001___fond
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd aquarium_001.jpg
+
+newmtl aquarium_001___pierre
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd pierre_blanche.jpg
+
+newmtl aquarium_001___poisson
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd platy.jpg
+
+newmtl aquarium_001___poisson2
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd cardinalis.jpg
+
+newmtl aquarium_001___racine
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd bois_063.jpg
+
+newmtl aquarium_001___sable
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd sable_001.jpg
+
+newmtl aquarium_001___scalaire_slot12_scalaire_cc_001_m_null
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd scalaire.jpg
+
+newmtl pack_002_babyfoot___material__6
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois_marron.jpg
+
+newmtl pack_002_poker___03___default
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_cartes.jpg
+
+newmtl vitrine_000___mat_vitrine_verre
+Kd 1 1 1
+Ks 0 0 0
+d 0.3490200042724609
+illum 1
+
+newmtl porte_009___d
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl porte_009___p
+Kd 0.5843139886856079 0.5843139886856079 0.5843139886856079
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl porte_030____mat_metalbasique001sg
+Kd 0.2899999916553497 0.2899999916553497 0.2899999916553497
+Ks 0.5 0.5 0.5
+d 1
+Ns 1.482202053070068
+illum 2
+
+newmtl porte_030____peinture_00
+Kd 0.7599999904632568 0.09000000357627869 0.02999999932944775
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl porte_030___mat_vitresg
+Kd 0.9960780143737793 0.9960780143737793 0.9960780143737793
+Ks 0.5 0.5 0.5
+d 0.3019610047340393
+Ns 1.482202053070068
+illum 2
+
+newmtl lampe_projecteur_off___phong288
+Kd 0.2099999934434891 0.2099999934434891 0.2099999934434891
+Ks 1 1 1
+d 1
+Ns 3.426569938659668
+illum 2
+
+newmtl lampe_projecteur_off___phong289
+Kd 0.09000000357627869 0.09000000357627869 0.09000000357627869
+Ks 0.2000000029802322 0.2000000029802322 0.2000000029802322
+d 1
+Ns 1
+illum 2
+
+newmtl lampe_projecteur_off___phong290
+Kd 0.784313976764679 0.784313976764679 0.784313976764679
+Ks 1 1 1
+d 1
+Ns 96
+illum 2
+
+newmtl luminaire_off_001___noir1
+Kd 0.2470588237047195 0.2470588237047195 0.2470588237047195
+Ks 0.1529999971389771 0.1529999971389771 0.1529999971389771
+d 1
+Ns 1
+illum 2
+
+newmtl luminaire_off_001___phong22sg1
+Kd 0.2800000011920929 0.2560000121593475 0.2560000121593475
+Ks 0.2300000041723251 0.2099999934434891 0.2000000029802322
+d 1
+Ns 1
+illum 2
+
+newmtl luminaire_off_001___phong30sg1
+Kd 0.6570000052452087 0.517935037612915 0.2398050129413605
+Ks 1 1 1
+d 0.7972027659416199
+Ns 3
+illum 2
+
+newmtl luminaire_off_001___phong33
+Kd 0.8899999856948853 0.8899999856948853 0.8899999856948853
+Ks 0.1258741319179535 0.1258741319179535 0.1258741319179535
+d 1
+illum 1
+
+newmtl bureau_008___grisclair
+Kd 0.800000011920929 0.7960780262947083 0.7764710187911987
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl bureau_008___metal_armature
+Kd 0.800000011920929 0.7960780262947083 0.7764710187911987
+Ks 0 0 0
+d 1
+Ns 0.699999988079071
+illum 2
+
+newmtl bureau_008___noir
+Kd 0.2470590025186539 0.2470590025186539 0.2470590025186539
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl bureau_008___plastic_beige
+Kd 0.8627449870109558 0.8392159938812256 0.7372549772262573
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl bureau_008___plastic_cadre
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl bureau_008___plastic_noir
+Kd 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl bureau_008___plastic_tapis
+Kd 0.3372550010681152 0.2588239908218384 0.2549020051956177
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_005_bureau_001_fauteuil_002___metal
+Kd 0.4235289990901947 0.4235289990901947 0.4235289990901947
+Ks 0 0 0
+d 1
+Ns 0.699999988079071
+illum 2
+
+newmtl pack_005_bureau_001_fauteuil_002___pieds
+Kd 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl armoire_bureau_002___grisclair
+Kd 0.800000011920929 0.7960780262947083 0.7764710187911987
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl armoire_bureau_001___noir
+Kd 0.2470590025186539 0.2470590025186539 0.2470590025186539
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl fake_mat_255_255_255_32
+Kd 1.000000 1.000000 1.000000
+Ks 0 0 0
+d 0.125490
+illum 1
+
+newmtl fake_mat_0_0_0_255
+Kd 0.000000 0.000000 0.000000
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_0_26_2_255
+Kd 0.000000 0.101961 0.007843
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_8_8_8_255
+Kd 0.031373 0.031373 0.031373
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_200_128_13_255
+Kd 0.784314 0.501961 0.050980
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_133_32_27_255
+Kd 0.521569 0.125490 0.105882
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_222_34_35_255
+Kd 0.870588 0.133333 0.137255
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_107_66_38_255
+Kd 0.419608 0.258824 0.149020
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_41_42_43_255
+Kd 0.160784 0.164706 0.168627
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_86_119_62_255
+Kd 0.337255 0.466667 0.243137
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_83_83_83_255
+Kd 0.325490 0.325490 0.325490
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_117_117_117_255
+Kd 0.458824 0.458824 0.458824
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_45_145_168_255
+Kd 0.176471 0.568627 0.658824
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_227_213_183_255
+Kd 0.890196 0.835294 0.717647
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_197_196_193_255
+Kd 0.772549 0.768627 0.756863
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_210_214_217_255
+Kd 0.823529 0.839216 0.850980
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_250_250_250_255
+Kd 0.980392 0.980392 0.980392
+Ks 0 0 0
+d 1.000000
+illum 1
