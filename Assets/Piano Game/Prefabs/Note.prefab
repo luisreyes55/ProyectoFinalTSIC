@@ -62,7 +62,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.4775519, g: 0, b: 0.8301887, a: 1}
+  m_Color: {r: 0.06474723, g: 0.69391, b: 0.9150943, a: 1}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -91,7 +91,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e61c01c15560e4142ac285349bc88531, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 75
+  speed: 30
   _name: DO4
   destroyParticles: {fileID: 1559717296049814, guid: 33386a748ec6aac41ac75447c32b3d99, type: 3}
 --- !u!65 &65796540127411170
