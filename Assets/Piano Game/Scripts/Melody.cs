@@ -22,7 +22,6 @@ public class Melody : MonoBehaviour {
     void Start ()
     {
         // define the melody with the notes and durations
-        //melodyNotes =    new string[] { "FA3", "FA3", "FA3", "FA3", "MI3", "FA3","FA3","MI3","FA3","SOL3","LA3","SOL3", "FA4", "FA4", "FA4", "FA4", "MI4", "FA4", "FA4", "MI4", "FA4", "SOL4", "LA4", "SOL4" };
         melodyNotes = new string[] { "SOL4", "FA4", "MI4", "DO4", "DO4", "SOL3", "DO4","DO4", "MI4", "DO4", "MI4", "SOL4", "FA4", "MI4", "FA4", "RE4", "RE4", "LA3", "RE4", "RE4", "FA4", "RE4", "FA4", "LA4", "SOL4", "FA4", "MI4", "RE4", "DO4", "SOL3", "DO4", "DO4", "MI4", "DO4", "MI4", "SOL4", "FA4", "MI4", "FA4", "MI4", "FA4", "RE4", "SOL4", "FA4", "MI4", "DO4", "DO4", "DO4"};
         melodyDuration = new float[] {  0.5f , 0.25f, 0.5f , 0.5f , 0.5f ,  1.0f, 0.5f, 0.5f, 1.0f, 0.5f, 1.0f , 1.0f ,  0.5f, 0.25f, 0.5f , 0.5f , 0.5f , 1.0f , 0.5f , 0.5f , 1.0f , 0.5f  , 1.0f ,  1.0f, 0.5f, 0.25f, 0.5f, 0.5f, 0.5f, 1.0f, 0.5f, 0.5f, 1.0f, 0.5f, 1.0f, 1.0f, 0.5f, 0.25f, 0.5f, 0.5f, 0.5f, 1.0f, 0.5f, 0.5f, 1.0f, 0.5f, 1.0f, 1.0f };
 
